@@ -18,84 +18,96 @@
 
 <br/>
 
-<!-- Tech Stack -->
+<!-- Backend -->
 
 <h3 align="center">💻 Backend & Language 💻</h3>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 </div>
 
 <br/>
+
+<!-- Database -->
 
 <h3 align="center">🗄 Database 🗄</h3>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/h2-09476B?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/h2-09476B?style=for-the-badge" />
 
 </div>
 
 <br/>
+
+<!-- DevOps -->
 
 <h3 align="center">🐳 DevOps & Cloud 🐳</h3>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/docker compose-1488C6?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker compose-1488C6?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 
 </div>
 
 <br/>
+
+<!-- Security -->
 
 <h3 align="center">🔐 Security 🔐</h3>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/trivy-1904DA?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/semgrep-3EAAAF?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/trivy-1904DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/semgrep-3EAAAF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 </div>
 
 <br/>
+
+<!-- Monitoring -->
 
 <h3 align="center">📊 Monitoring & Logging 📊</h3>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/elk stack-005571?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/cloudwatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/elk stack-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/cloudwatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
 
 </div>
 
 <br/>
+
+<!-- Tools -->
 
 <h3 align="center">🛠 Tools 🛠</h3>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
 
 </div>
 
 <br/>
+
+<!-- Contact -->
 
 <h3 align="center">📫 Contact 📫</h3>
 
