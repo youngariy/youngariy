@@ -1,7 +1,7 @@
 <!-- 타이틀 -->
 
 <div align="center">
-  <h1>☁️ Youngbeom Heo | Backend · DevOps · Cloud Engineer</h1>
+  <h1>☁️ Backend · DevOps · Cloud Engineer</h1>
   <p>Building Reliable Infrastructure, Secure Pipelines, and Scalable Services</p>
 </div>
 
